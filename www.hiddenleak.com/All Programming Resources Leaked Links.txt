@@ -1,0 +1,38 @@
+mega.nz:
+https://mega.nz/#F!8G4wxSrJ!m7LX9z4a3Zxbpw62q9ZFSQ - Infosec PDF
+
+https://mega.nz/#F!8EdEmZSI!OHRaksNSZYpSKLMUnrOelQ - Infosec PDF
+
+https://mega.nz/#F!VpZSjbbR!T8HXLl20No0LDP8OTIYZAg - old hacking/pentesting courses & books 2003-2012
+
+https://mega.nz/#F!NAZwVILa!U15d9WY-uy4bg0tjUYGQEA - programming books
+
+https://mega.nz/#F!FLQUyb5J!_EXxEI7zjaM1cUirMQFnAQ - programming books
+
+https://mega.nz/#F!ZoowSCKD!XkOxKqWxHFx1ydeHZzAM7g - hacking & programming books
+
+https://mega.nz/#F!ZA8x3KjL!aOhch9x--wvKoO8SgmmFng - Pentester Academy
+
+https://mega.nz/#F!bL431QAS!Q52P6TCrx33IZ5xz22ux6A - Infosec resources
+--
+Github:
+https://github.com/Hack-with-Github/Free-Security-eBooks
+
+https://github.com/prakhar1989/awesome-courses#security
+
+https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#professional-development
+
+https://github.com/brusalexandr/ebooks - programming books
+--
+Google drive:
+https://drive.google.com/drive/folders/0ByWO0aO1eI_MN1BEd3VNRUZENkU - 500 GB programming resources
+
+https://drive.google.com/drive/folders/0B6e-S9ckSvFSdE5MaXRiaWIwbGc
+
+https://drive.google.com/drive/folders/0B5rqWHARHFcVNUpNamdoMlRqRm8 - hacking books
+
+https://drive.google.com/drive/folders/0B1z1xICmk2LiZ1UzUmhQSnhKTGc - programming books
+
+https://drive.google.com/drive/folders/1O2cqrDEdX_1Vag9wWQC6ovBgeoXDk0BB 
+
+- RO language, reversing by CodeCracker
